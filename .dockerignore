@@ -1,0 +1,10 @@
+# app
+tmp
+
+# git
+.git
+
+# Docker
+.dockerignore
+docker-compose.yml
+Dockerfile
